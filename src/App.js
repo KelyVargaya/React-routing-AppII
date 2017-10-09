@@ -145,6 +145,7 @@ const CSS =  () => {
             <h1> CSS </h1>  
         </div>
         <div className = "content"> 
+	   <ul>
 		<li className="course media group" >
 			<img className= "course-img" src="https://achievement-images.teamtreehouse.com/badges_css_basics_stage6.png" alt=""/>
 			<div>
@@ -197,6 +198,7 @@ const CSS =  () => {
                     	<p>Get started creating web pages with HTML and CSS, the basic building blocks of web development. HTML, or Hypertext Markup Language, is a standard set of tags you will use to tell the web browser how the content of your web pages and applications are structured. Use CSS, or Cascading Style Sheets, to select HTML tags and tell the browser what your content should look like.</p>
                   	</div>
                	</li>
+	    </ul>
           </div>
       </div>
    );
@@ -208,6 +210,7 @@ const JavaScript =  () => {
             <h1> JAVASCRIPT </h1>  
         </div> 
         <div className = "content"> 
+	   <ul>
 		<li className="course media group">
 			<img className= "course-img" src="https://achievement-images.teamtreehouse.com/badges_JavaScript_Basics_Stage1.png" alt=""/>
 			<div>
@@ -260,6 +263,7 @@ const JavaScript =  () => {
                     	<p>JavaScript is a programming language that drives the web: from front-end user interface design, to backend server-side programming, you'll find JavaScript at every stage of a web site and web application. In this course, you'll learn the fundamental programming concepts and syntax of the JavaScript programming language.</p>
                   	</div>
                	</li>
+	     </ul>
           </div>
       </div>
    );
