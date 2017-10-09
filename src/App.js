@@ -82,7 +82,7 @@ const HTML =  () => {
             <h1> HTML </h1>  
         </div>
         <div className="content"> 
-		<li className="course media group" id="repos">
+		<li className="course media group">
 			<img className= "course-img" src="https://achievement-images.teamtreehouse.com/bagdes_html_howtobuildawebsite_stage02.png" alt=""/>
 			<div>
                     	<h2>How to Make a Website</h2>
@@ -91,7 +91,7 @@ const HTML =  () => {
                 </li>
          </div>
          <div className="content"> 
-		<li className="course media group" id="repos">
+		<li className="course media group">
 			<img className= "course-img" src="https://achievement-images.teamtreehouse.com/badges_html_forms_stage1.png" alt=""/>
 			<div>
                     	<h2>HTML FORMS</h2>
@@ -100,7 +100,7 @@ const HTML =  () => {
 		</li>
           </div>
           <div className="content"> 
-		<li className="course media group" id="repos">
+		<li className="course media group" >
 			<img className= "course-img" src="https://achievement-images.teamtreehouse.com/badges-html-videoaudio-stage1.png" alt=""/>
 			<div>
                    	<h2>HTML Video and Audio</h2>
@@ -109,7 +109,7 @@ const HTML =  () => {
 		</li>
           </div>
           <div className="content"> 
-		<li className="course media group" id="repos">
+		<li className="course media group">
 			<img className= "course-img" src="https://achievement-images.teamtreehouse.com/badges-html-svg-stage1.png" alt=""/>
 			<div>
                     	<h2>SVG Basics</h2>
@@ -118,7 +118,7 @@ const HTML =  () => {
                 </li>
           </div>
           <div className="content"> 
-		<li className="course media group" id="repos">
+		<li className="course media group">
 			<img className= "course-img" src="https://achievement-images.teamtreehouse.com/badges_html_respimages_stage2.png" alt=""/>
 			<div>
                     	<h2>Responsive Images</h2>
@@ -127,7 +127,7 @@ const HTML =  () => {
                	</li>
           </div>
           <div className="content"> 
-		<li className="course media group" id="repos">
+		<li className="course media group">
 			<img className= "course-img" src="https://achievement-images.teamtreehouse.com/badges_intro_to_html_css_stage-01.png" alt=""/>
 			<div>
                     	<h2>Introduction to HTML and CSS</h2>
@@ -145,7 +145,7 @@ const CSS =  () => {
             <h1> CSS </h1>  
         </div>
         <div className = "content"> 
-		<li className="course media group" id="repos">
+		<li className="course media group" >
 			<img className= "course-img" src="https://achievement-images.teamtreehouse.com/badges_css_basics_stage6.png" alt=""/>
 			<div>
                     	<h2>CSS Basic</h2>
@@ -154,7 +154,7 @@ const CSS =  () => {
                	</li>
           </div>
           <div className = "content"> 
-		<li className="course media group" id="repos">
+		<li className="course media group" >
 			<img className= "course-img" src="https://achievement-images.teamtreehouse.com/badges_css_selectors_stage01.png" alt=""/>
 			<div>
                     	<h2>CSS Selectors</h2>
@@ -163,7 +163,7 @@ const CSS =  () => {
                	</li>
           </div>
           <div className = "content"> 
-		<li className="course media group" id="repos">
+		<li className="course media group">
 			<img className= "course-img" src="https://achievement-images.teamtreehouse.com/badges-CSS-ResponsiveLayouts-stage3.png" alt=""/>
 			<div>  
                     	<h2>Responsive Layouts</h2>
@@ -172,7 +172,7 @@ const CSS =  () => {
                </li>
           </div>
           <div className = "content"> 
-		<li className="course media group" id="repos">
+		<li className="course media group">
 			<img className= "course-img" src="https://achievement-images.teamtreehouse.com/badges_css_flexbox_layout_stage1.png" alt=""/>
 			<div>
                     	<h2>CSS Flexbox Layout</h2>
@@ -181,7 +181,7 @@ const CSS =  () => {
                	</li>
           </div>
           <div className = "content"> 
-		<li className="course media group" id="repos">
+		<li className="course media group">
 			<img className= "course-img" src="https://achievement-images.teamtreehouse.com/css-transitions-and-transforms-badge-02.png" alt=""/>
 			<div>  
                     	<h2>CSS Transitions and Transforms</h2>
@@ -190,7 +190,7 @@ const CSS =  () => {
                	</li>
           </div>
           <div className = "content"> 
-		<li className="course media group" id="repos">
+		<li className="course media group">
 			<img className= "course-img" src="https://achievement-images.teamtreehouse.com/badge_bootstrap-4-basics_stage01.png" alt=""/>
 			<div>
                    	<h2>Bootstrap 4 Basics</h2>
@@ -208,7 +208,7 @@ const JavaScript =  () => {
             <h1> JAVASCRIPT </h1>  
         </div> 
         <div className = "content"> 
-		<li className="course media group" id="repos">
+		<li className="course media group">
 			<img className= "course-img" src="https://achievement-images.teamtreehouse.com/badges_JavaScript_Basics_Stage1.png" alt=""/>
 			<div>
                     	<h2>JAVASCRIPT Basic</h2>
@@ -217,7 +217,7 @@ const JavaScript =  () => {
                	</li>
           </div>
           <div className = "content"> 
-		<li className="course media group" id="repos">
+		<li className="course media group">
 			<img className= "course-img" src="https://achievement-images.teamtreehouse.com/badges_JavaScript_Basics_Stage5.png" alt=""/>
 			<div>
                     	<h2>JavaScript Loops, Arrays and Objects</h2>
@@ -226,7 +226,7 @@ const JavaScript =  () => {
                	</li>
           </div>
           <div className = "content"> 
-		<li className="course media group" id="repos">
+		<li className="course media group">
 			<img className= "course-img" src="https://achievement-images.teamtreehouse.com/badges_JavaScript_jQueryBasics_Stage1.png" alt=""/>
 			<div>
                     	<h2>jQuery Basics</h2>
@@ -235,7 +235,7 @@ const JavaScript =  () => {
                	</li>
           </div>
           <div className = "content"> 
-		<li className="course media group" id="repos">
+		<li className="course media group">
 			<img className= "course-img" src="https://achievement-images.teamtreehouse.com/badges_JavaScript_AJAXBasics_Stage3.png" alt=""/>
 			<div>
                     	<h2>AJAX Basics</h2>
@@ -244,7 +244,7 @@ const JavaScript =  () => {
                	</li>
           </div>
           <div className = "content"> 
-		<li className="course media group" id="repos">
+		<li className="course media group">
 			<img className= "course-img" src="https://achievement-images.teamtreehouse.com/bagdes-javascript-interactiveweb-stage-12.png" alt=""/>
 			<div>
                     	<h2>Interactive Web Pages with JavaScript</h2>
@@ -253,7 +253,7 @@ const JavaScript =  () => {
                	</li>
           </div>
           <div className = "content"> 
-		<li className="course media group" id="repos">
+		<li className="course media group">
 			<img className= "course-img" src="https://achievement-images.teamtreehouse.com/badges_JavaScript_nodeBasics_Stage1.png" alt=""/>
 			<div>
                     	<h2>Node.js Basics</h2>
